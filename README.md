@@ -81,12 +81,8 @@ buff[n]='\0';
 printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 }
 ```
-
-
-
-
 ## OUTPUT
-![image](https://github.com/mounika2005/Linux-IPC-Pipes/assets/145633112/587d031e-3c1f-48e2-9328-14a886d4a4ff)
+![image](https://github.com/mounika2005/Linux-IPC-Pipes/assets/145633112/b87b0f08-a331-48ca-9512-6012f421549a)
 
 
 
@@ -103,16 +99,12 @@ if (res == 0) printf("FIFO created\n");
 exit(EXIT_SUCCESS);
 }
 ```
-
-
-
-
 ## OUTPUT
-![image](https://github.com/mounika2005/Linux-IPC-Pipes/assets/145633112/411dd2ea-9b03-4a4e-9281-865d5b4ebafb)
-![image](https://github.com/mounika2005/Linux-IPC-Pipes/assets/145633112/a83bb3c2-8db1-4808-9895-b4bbfaab19f4)
+![image](https://github.com/mounika2005/Linux-IPC-Pipes/assets/145633112/4cd8562b-0fa5-40b3-817c-22cb96a3833d)
+
+![image](https://github.com/mounika2005/Linux-IPC-Pipes/assets/145633112/4bb43c54-6e5a-4b60-9aed-98c943ec7029)
 
 
 
 # RESULT:
 The program is executed successfully.
-
